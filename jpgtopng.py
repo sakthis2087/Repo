@@ -1,3 +1,4 @@
+#Adding Comments
 import sys
 import os
 from PIL import Image
